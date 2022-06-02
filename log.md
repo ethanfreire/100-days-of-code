@@ -9,4 +9,9 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+### Day 1: June 01, 2022 
 
+
+**Today's Progress**: Watch ZTM React Udemy course section on React key concepts.
+
+**Thoughts:** Gain an appriciation for what React is use for and why it was even invented in the first place.
