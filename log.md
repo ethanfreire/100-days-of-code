@@ -15,3 +15,10 @@
 **Today's Progress**: Watch ZTM React Udemy course section on React key concepts.
 
 **Thoughts:** Gain an appriciation for what React is use for and why it was even invented in the first place.
+
+### Day 2: June 02, 2022 
+
+**Today's Progress**: Finish React Key Concept Section, updated my environment setup, ran create react app,and made a repository on github to push my commits too. Woot. 
+
+**Thoughts:** Learned using Yarn over NPM makes writing terminal commands more concise. 
+
