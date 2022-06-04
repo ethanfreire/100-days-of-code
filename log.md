@@ -22,6 +22,6 @@
 
 **Thoughts:** Learned using Yarn over NPM makes writing terminal commands more concise. 
 
-### Day 2: June 03, 2022 
+### Day 3: June 03, 2022 
 
 **Today's Progress**: Ah so sorry this is late. Busy day and a tropical storm on the way >.> ...fantastic. Anyway learned the difference between React and ReactDOM, also react can build alot of different types of applications beyond web apps. Neat. Lecture heavy today. So tomorrow gonna code a lot more this weekend.
