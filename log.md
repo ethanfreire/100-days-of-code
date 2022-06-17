@@ -30,3 +30,8 @@
 
 **Today's Progress**: Restarted my 100 days of code challenege. So excited to get into learning more React. Today learned about Class Components, Component State, and setState. Finally a dynamic website. Woot.
 
+
+### Day 2: June 16, 2022 
+
+**Today's Progress**: So learned today React shallow merge best practices and how that can affect state, and the output on re-rendering. Tricky. I've got to remember to have matching value type when shallow merging.
+
