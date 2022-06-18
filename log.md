@@ -35,3 +35,7 @@
 
 **Today's Progress**: So learned today React shallow merge best practices and how that can affect state, and the output on re-rendering. Tricky. I've got to remember to have matching value type when shallow merging.
 
+
+### Day 3: June 17, 2022 
+
+**Today's Progress**: Learned a bit more on setState. A secondary Callback function is quite useful if you want to get an accurate representation of what your current state is, as React works asynchronously. 
