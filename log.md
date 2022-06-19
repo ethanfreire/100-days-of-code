@@ -39,3 +39,8 @@
 ### Day 3: June 17, 2022 
 
 **Today's Progress**: Learned a bit more on setState. A secondary Callback function is quite useful if you want to get an accurate representation of what your current state is, as React works asynchronously. 
+
+
+### Day 4: June 18, 2022 
+
+**Today's Progress**: Learned today of key property in mapping array and why it's so crucial in React and how it's KEY in React optimizing an application component re-rendering or updating. 
