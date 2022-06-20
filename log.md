@@ -44,3 +44,7 @@
 ### Day 4: June 18, 2022 
 
 **Today's Progress**: Learned today of key property in mapping array and why it's so crucial in React and how it's KEY in React optimizing an application component re-rendering or updating. 
+
+### Day 5: June 19, 2022 
+
+**Today's Progress**: So today got to learn the internet pages function differently to modern SPA with React. I don't really remember blank page in between page navigations. Also, got to learn of react lifecycle methods and some best practices on how, when, where to use it.
