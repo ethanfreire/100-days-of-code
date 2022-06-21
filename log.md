@@ -48,3 +48,7 @@
 ### Day 5: June 19, 2022 
 
 **Today's Progress**: So today got to learn the internet pages function differently to modern SPA with React. I don't really remember blank page in between page navigations. Also, got to learn of react lifecycle methods and some best practices on how, when, where to use it.
+
+### Day 6: June 20, 2022 
+
+**Today's Progress**: Wow today went by super fast. Learned a bit more on React and the general work flow for code order execution. Really important to know when react would re-rendering a component. Can't wait to build more of the app tomorrow.
