@@ -56,3 +56,7 @@
 ### Day 7: June 21, 2022 
 
 **Today's Progress**: Did a lot today. Got to learn how to implement an input search box for the app and have it filter the array but also be able to go back to the original array. And made some optimization changes to the code. Neat. Can't wait to learn more about App Components.
+
+### Day 8: June 22, 2022 
+
+**Today's Progress**: Really hammered in when React would re-render a component. Super Important. Also made a cardlist components and moved some code to it. Also got to explore component props.
