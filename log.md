@@ -52,3 +52,7 @@
 ### Day 6: June 20, 2022 
 
 **Today's Progress**: Wow today went by super fast. Learned a bit more on React and the general work flow for code order execution. Really important to know when react would re-rendering a component. Can't wait to build more of the app tomorrow.
+
+### Day 7: June 21, 2022 
+
+**Today's Progress**: Did a lot today. Got to learn how to implement an input search box for the app and have it filter the array but also be able to go back to the original array. And made some optimization changes to the code. Neat. Can't wait to learn more about App Components.
