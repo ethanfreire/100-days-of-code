@@ -60,3 +60,7 @@
 ### Day 8: June 22, 2022 
 
 **Today's Progress**: Really hammered in when React would re-render a component. Super Important. Also made a cardlist components and moved some code to it. Also got to explore component props.
+
+### Day 9: June 23, 2022 
+
+**Today's Progress**: Bit of a hectic day . But manage to squeeze in a bit of React tutorial. So learned today how css in React works. Gotta be careful your css doesn't overide over css. Can't wait to learn CSS in JS.
