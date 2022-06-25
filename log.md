@@ -64,3 +64,8 @@
 ### Day 9: June 23, 2022 
 
 **Today's Progress**: Bit of a hectic day . But manage to squeeze in a bit of React tutorial. So learned today how css in React works. Gotta be careful your css doesn't overide over css. Can't wait to learn CSS in JS.
+
+
+### Day 10: June 24, 2022 
+
+**Today's Progress**: Big win. Manage to finish code optimization and refactoring without tutorial assistance.Woot. Also learned that I keep forgeting this.props is a thing.Whoops gotta remember that exists. 
