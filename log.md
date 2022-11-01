@@ -17,7 +17,7 @@
 
 **Link to work:** 
 
-### Day 1: October 31, 2022
+### Day 2: October 31, 2022
 
 **Today's Progress**: Got working my user router simple test.
 
