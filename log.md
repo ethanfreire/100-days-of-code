@@ -9,11 +9,19 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 1: October 29, 2022
+### Day 1: October 30, 2022
 
 **Today's Progress**: Got to work on back end and manage to connect to mongodb,test my app get , and learn more on common JS destructing with require.
 
 **Thoughts:** CommonJS syntax will take some time to get use to especially with imports.Overall happy progress so far and can't wait to keep on building ^_^.
+
+**Link to work:** 
+
+### Day 1: October 31, 2022
+
+**Today's Progress**: Got working my user router simple test.
+
+**Thoughts:** Getting use to commonJS imports and checking what I'm actually importing. Also learning more on middleware and postman for testing fun stuff.
 
 **Link to work:** 
 
