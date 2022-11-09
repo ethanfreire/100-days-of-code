@@ -9,19 +9,10 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 1: October 30, 2022
+### Day 1: November 08, 2022
 
-**Today's Progress**: Got to work on back end and manage to connect to mongodb,test my app get , and learn more on common JS destructing with require.
+**Today's Progress**: Finally manage to create my models and routes and got passing simple get and post HTTP method for users and products. Can't wait to learn more on middleware tomorrow.
 
-**Thoughts:** CommonJS syntax will take some time to get use to especially with imports.Overall happy progress so far and can't wait to keep on building ^_^.
+**Thoughts:** Definetly feel that using cornell note taking method to write something down on paper while listening to tutorial helps me keep track of what is covered and helps ADHD brain stay focused. 
 
-**Link to work:** 
-
-### Day 2: October 31, 2022
-
-**Today's Progress**: Got working my user router simple test.
-
-**Thoughts:** Getting use to commonJS imports and checking what I'm actually importing. Also learning more on middleware and postman for testing fun stuff.
-
-**Link to work:** 
 
