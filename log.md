@@ -16,3 +16,8 @@
 **Thoughts:** Definetly feel that using cornell note taking method to write something down on paper while listening to tutorial helps me keep track of what is covered and helps ADHD brain stay focused. 
 
 
+### Day 2: November 09, 2022
+
+**Today's Progress**: Added some npm script to help with automating development stuff. 
+
+**Thoughts:** 
